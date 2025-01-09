@@ -1,0 +1,5 @@
+abc1231234ababbcccc1234
+ab*23*ab*c*34
+
+abcbbb123ababab3ab12222a2
+abc*123*ab?ab12*a?
